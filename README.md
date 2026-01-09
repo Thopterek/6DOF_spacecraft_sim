@@ -9,6 +9,8 @@
 ## Repository Structure
 
 * trick/ros_base directories as notes and code going through their individual concepts
+  * based on chapters / concepts
+  * each with smaller README.md about them
 * attitude_determination_and_control for fundamental concepts and mathematical basis
 * spacecraft directory the end goal of this project, combining those technologies
 
