@@ -28,6 +28,11 @@ This project does NOT aim to:
 - Act as a full mission simulator or ground system
 
 ## Possible addition
+
 * NASA’s Genesis (Julia) and Copernicus
 * Jenkins testing
 * MoveIt2 for planning
+
+#### Misc
+
+* ./configure --with-llvm=/usr/local/opt/llvm
